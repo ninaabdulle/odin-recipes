@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # odin-recipes
 
 This is my first project from [The Odin Project](https://www.theodinproject.com/), where I built a simple website to practice basic HTML skills.  
